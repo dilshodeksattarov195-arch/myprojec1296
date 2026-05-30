@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildalculate",
+        "uuid": 10519632,
+        "checksum": "6s69mk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
